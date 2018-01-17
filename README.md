@@ -1,0 +1,2 @@
+# Cost-or-Quality-What-to-Pick-in-Software-Testing-
+The software testing cost and a software quality in software testing are different terms but depend on each other. In case you are one of those individuals who surmise that software testing and quality assurance a waste of efforts and time. Then Reconsider. Software quality in software testing is completely fundamental to software testing cost. What influences me to state that?
